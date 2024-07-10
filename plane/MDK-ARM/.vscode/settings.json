@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "shoot_task.h": "c",
+        "struct_typedef.h": "c",
+        "can_receive.h": "c",
+        "ins_task.h": "c",
+        "referee.h": "c",
+        "usart_receive.h": "c",
+        "chassis_power_control.h": "c",
+        "gimbal_task.h": "c",
+        "pid.h": "c",
+        "chassis_task.h": "c",
+        "filter.h": "c",
+        "gimbal_behaviour.h": "c",
+        "custom_ui_draw.h": "c",
+        "referee_usart_task.h": "c",
+        "random": "c",
+        "*.tcc": "c",
+        "limits": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
